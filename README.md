@@ -9,8 +9,8 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 Here are the data for the project: 
 
 #To run this project you will need:
-*Install the 'plyr' package if you don't have it. 
-*https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+* Install the 'plyr' package if you don't have it. 
+* https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 ## The run_analysis.R will do the following. 
 * Merges the training and the test sets to create one data set.
